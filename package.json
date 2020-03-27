@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "author": "Deekshith Maram",
   "version": "0.0.0",
   "private": true,
   "scripts": {
